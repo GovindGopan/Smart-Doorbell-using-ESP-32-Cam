@@ -22,7 +22,7 @@ const char* password = "Wifi password";
 // ==========================================
 // SERVER CONFIGURATION
 // ==========================================
-const char* serverIP = "192.168.1.x";
+const char* serverIP = "192.168.1.5";
 const char* serverPort = "8000";
 const char* uploadPath = "/upload";
 const char* logPath = "/buzzer-log";
