@@ -1,3 +1,11 @@
+# Components used
+
+1. ESP 32 cam
+2. Buzzer
+3. PIR motion sensor 
+4. Push button
+5. Bread board power supply
+
 # Smart Doorbell Backend
 
 This project is the backend for a smart doorbell system that uses AI to detect people, recognize faces, and detect packages. It sends email alerts and can trigger a buzzer on an ESP32 device.
@@ -83,12 +91,4 @@ The application will be available at `http://localhost:8000`.
     python train_known_faces.py
     ```
     This will generate the `known_faces.pt` file.
-
-# Components used
-
-1. ESP 32 cam
-2. Buzzer
-3. PIR motion sensor 
-4. Push button
-5. Bread board power supply 
-
+ 
