@@ -84,6 +84,11 @@ The application will be available at `http://localhost:8000`.
     ```
     This will generate the `known_faces.pt` file.
 
----
+# Components used
 
-_This project was created with the assistance of an AI agent._
+1. ESP 32 cam
+2. Buzzer
+3. PIR motion sensor 
+4. Push button
+5. Bread board power supply 
+
